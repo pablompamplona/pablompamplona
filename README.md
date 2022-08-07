@@ -1,6 +1,6 @@
 <h1 align="left">Olá!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou Pablo Alexandre Pamplona</h1>
-<p>- 🔥 Desenvolvedor Fullstack </p>
-<p>- 🌱 Estou aprendendo as seguintes Stacks ...</p>
+<p> 🚧 Desenvolvedor Fullstack 🚧
+<p> :godmode: Estou aprendendo as seguintes Stacks: </p>
 <div display: grid>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
