@@ -1,4 +1,6 @@
-<h1 align="left">Olá!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou Pablo Alexandre Pamplona</h1>
+<h1 align="left">Olá!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<p>Meu nome é Pablo Alexandre Pamplona</p>
+<p>Esse é o meu perfil no Github</p>
 <p> 🚧 Desenvolvedor Fullstack 🚧
 <p> :godmode: Estou aprendendo as seguintes Stacks: </p>
 <div display: grid>
