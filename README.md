@@ -2,7 +2,7 @@
 <p>Meu nome é Pablo Alexandre Pamplona</p>
 <p>Esse é o meu perfil no Github</p>
 <p> 🚧 Desenvolvedor Fullstack 🚧
-<p> :godmode: Estou aprendendo as seguintes Stacks: </p>
+
 <div display: grid>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
