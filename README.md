@@ -1,7 +1,11 @@
 <h1 align="left">Olá!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 <p>Meu nome é Pablo Alexandre Pamplona</p>
 <p>Esse é o meu perfil no Github</p>
-<p> 🚧 Desenvolvedor Fullstack 🚧
+<p> 🚧 Desenvolvedor Fullstack 🚧 </p>
+<a href="https://linkedin.com/in/pabloalexandrepamplona" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-pabloalexandrepamplona-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<br><br>
 
 <div display: grid>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -21,6 +25,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pablompamplona&show_icons=true&theme=vision-friendly-dark" alt="pablompamplona's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablompamplona&layout=compact&theme=vision-friendly-dark" alt="pablompamplona's most languages"/>
 </p>
-<a href="https://linkedin.com/in/pabloalexandrepamplona" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pabloalexandrepamplona-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
